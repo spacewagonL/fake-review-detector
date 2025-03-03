@@ -1,7 +1,7 @@
 # Fake Review Detection using Machine Learning
 
 ## Overview
-This project aims to detect fake reviews using various machine learning techniques. We analyze review text data and compare the performance of traditional supervised learning models (SVM, Logistic Regression, Random Forest, XGBoost) against deep learning models (LSTM). The goal is to determine which approach is most effective in distinguishing fake vs. real reviews.
+This project aims to detect fake reviews using various machine learning techniques. I analyzed review text data and compare the performance of traditional supervised learning models (SVM, Logistic Regression, Random Forest, XGBoost) against deep learning models (LSTM). The goal is to determine which approach is most effective in distinguishing fake vs. real reviews.
 
 ## Technologies Used
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
